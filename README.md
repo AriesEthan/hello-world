@@ -9,3 +9,10 @@ Enjoy it!
 These words wrote from my local PC.
 
 These words wrote from my MBA
+
+git push 
+update files from local to remote(i.e., master to origin/master)
+
+git pull
+fetch files from remote rep and merge to local.
+
